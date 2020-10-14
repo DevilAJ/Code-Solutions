@@ -7,6 +7,7 @@ Prefix : String formed by deleting one or more characters from the end Suffix : 
 Eg : abbcabb
 
 Prefixes : a, ab, abb, abbc, abbca, abbab
+
 Suffixes : b, bb, abb, cabb, bcabb, bbcabb
 
 Here abb is both prefix and suffix, so answer is 1
